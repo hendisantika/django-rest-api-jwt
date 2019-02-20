@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # Third-Party Apps
     'rest_framework',
+    'rest_framework.authtoken',  # <-- Here
 
     # Local Apps (Your project's apps)
     'myapi',
