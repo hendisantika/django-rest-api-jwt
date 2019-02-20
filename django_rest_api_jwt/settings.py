@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'rest_framework',
 
     # Local Apps (Your project's apps)
-    'django_rest_api_jwt.core',
+    'myapi',
 ]
 
 MIDDLEWARE = [
